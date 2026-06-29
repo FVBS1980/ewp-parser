@@ -1,7 +1,0 @@
-flask
-flask-cors
-pymupdf
-requests
-gunicorn
-PyJWT
-cryptography
